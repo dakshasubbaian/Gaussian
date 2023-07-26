@@ -53,7 +53,7 @@ for i in range(n):
 ```
 
 ## OUTPUT:
-![gaussian elimination](/gau.png)
+![output](/gau.png)
 
 
 ## RESULT:
