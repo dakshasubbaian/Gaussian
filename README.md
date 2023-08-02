@@ -53,7 +53,7 @@ for i in range(n):
 ```
 
 ## OUTPUT:
-![output](/gau.png)
+![output](/gaussian.png)
 
 
 ## RESULT:
